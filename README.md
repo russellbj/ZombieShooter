@@ -1,6 +1,6 @@
 # Shooty Boys
 
-Top down zombie 'survival' shooter I threw together over a few days. Will update frequently with powerups, structures, different guns, etc. 
+Top down zombie 'survival' shooter I threw together recently. Will update frequently with powerups, structures, different guns, etc. 
 
 Shooty Boys Version 1.01 Update List:
 
