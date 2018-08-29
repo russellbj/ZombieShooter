@@ -2,6 +2,12 @@
 
 Top down zombie 'survival' shooter I threw together recently. Will update frequently with powerups, structures, different guns, etc. 
 
+To run this project:
+- Clone repo
+- Run `cd game_builds/windows`
+- Run `start windows_build.exe`
+
+
 Shooty Boys Version 1.01 Update List:
 
 What's New:
