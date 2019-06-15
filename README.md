@@ -1,6 +1,6 @@
 # Shooty Boys
 
-Top down zombie 'survival' shooter I threw together recently. Will update frequently with powerups, structures, different guns, etc. 
+Top down zombie 'survival' shooter I threw together recently. Will update infrequently with powerups, structures, different guns, etc. 
 
 To run this project:
 - Clone repo
